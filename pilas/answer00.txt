@@ -1,0 +1,17 @@
+question one
+11/2 = 5
+11.0/2= 5.5
+
+quetion two
+3**27 =7625597484987
+
+
+quetion three
+(134533 + 6889980 -84849)**3 = 334206837441656786944
+
+question four
+average time per meter is :0.00569620253165 time/meter
+
+question five
+distance between my friend and i is :6.53031063766 miles
+
